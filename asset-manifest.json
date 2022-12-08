@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-todo-app/static/css/main.5b8c9b8b.css",
+    "main.js": "/react-todo-app/static/js/main.0dc04c17.js",
+    "static/js/787.ee8b3b49.chunk.js": "/react-todo-app/static/js/787.ee8b3b49.chunk.js",
+    "static/media/icons8-trash-can.svg": "/react-todo-app/static/media/icons8-trash-can.83297893251238c27a60d272cd92d239.svg",
+    "static/media/checklist_yellow.svg": "/react-todo-app/static/media/checklist_yellow.a3264c6ed657f70c542d63201c0fa4a8.svg",
+    "static/media/add.svg": "/react-todo-app/static/media/add.92646574755bc3ac97d2eee37e9a7aa6.svg",
+    "index.html": "/react-todo-app/index.html",
+    "main.5b8c9b8b.css.map": "/react-todo-app/static/css/main.5b8c9b8b.css.map",
+    "main.0dc04c17.js.map": "/react-todo-app/static/js/main.0dc04c17.js.map",
+    "787.ee8b3b49.chunk.js.map": "/react-todo-app/static/js/787.ee8b3b49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b8c9b8b.css",
+    "static/js/main.0dc04c17.js"
+  ]
+}
