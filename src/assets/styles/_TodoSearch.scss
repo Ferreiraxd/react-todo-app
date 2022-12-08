@@ -1,0 +1,41 @@
+input{
+    height: 32px;
+    border: 1px solid white;
+    border-radius: 4px;
+    width: 90%;
+    background-color: transparent;
+    align-self: center;
+    color: white;
+    font-size: 18px;
+    padding: 12px;
+}
+
+label {
+    position: relative;
+    bottom: 50%;
+    left: 5%;
+    width: 64px;
+    background-color: rgb(16, 21, 117);
+    text-align: center;
+    font-size: 18px;
+}
+
+input::placeholder {
+    margin-left: 4px;
+}
+
+.searchBar{
+    width: auto;
+    display: flex;
+    flex-flow: column;
+    margin-top: 24px;
+}
+
+.searchBar input:focus ~ label {
+    bottom: 72px;
+    transition: 0.2s all;
+}
+
+.searchBar > .inputWithContent{
+    bottom: 72px;
+}
